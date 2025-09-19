@@ -5,7 +5,7 @@ Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais
 ---
 ## 📘 Tópicos Abordados
  A segurança na nuvem é um dos pilares mais importantes para qualquer empresa que utiliza serviços como o Microsoft Azure.
- No centro dessa segurança, está o gerenciamento de identidade, acesso e segurança que serão abordados a seguirn.
+ No centro dessa segurança, está o gerenciamento de identidade, acesso e segurança que serão abordados a seguir.
  
 ---
 ## 🪪 Identidade, Acesso e Segurança no Azure
