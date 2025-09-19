@@ -137,7 +137,7 @@ O aprendizado adquirido neste laboratório não apenas nos prepara para certific
 - [Padrões de segurança no Microsoft Entra ID](https://learn.microsoft.com/pt-br/entra/fundamentals/security-defaults)
 - [Como criar, convidar e excluir usuários](https://learn.microsoft.com/pt-br/entra/fundamentals/how-to-create-delete-users)
 - [Atributos de Segurança Personalizados](https://learn.microsoft.com/pt-br/entra/fundamentals/custom-security-attributes-overview)
-- [O que é azure RBAC](https://learn.microsoft.com/pt-br/azure/role-based-access-control/overview)
+- [O que é Azure RBAC](https://learn.microsoft.com/pt-br/azure/role-based-access-control/overview)
 - [Calculadora de Preços Azure](https://azure.microsoft.com/pt-br/pricing/calculator/?ef_id=_k_EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE_k_&gad_source=1&gad_campaignid=1635078708&gbraid=0AAAAADcJh_s0nlhmSLvv4COb6oAkGNm0s&gclid=EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE)
 - [Assinatura do Azure](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/azure-subscription-service-limits)
   
