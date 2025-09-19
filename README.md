@@ -5,7 +5,7 @@ Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais
 ---
 ## 📘 Tópicos Abordados
  A segurança na nuvem é um dos pilares mais importantes para qualquer empresa que utiliza serviços como o Microsoft Azure.
- No centro dessa segurança, está o gerenciamento de identidade, acesso e segurança que será abordado abaixo com maiores detalhes.
+ No centro dessa segurança, está o gerenciamento de identidade, acesso e segurança que serão abordados a seguirn.
  
 ---
 ## 🪪 Identidade, Acesso e Segurança no Azure
@@ -123,7 +123,7 @@ A seguir, exploraremos as principais opções e ferramentas estudadas durante o 
 A configuração e o gerenciamento de uma organização no **Microsoft Entra ID** representam um dos pilares fundamentais para garantir segurança, controle e eficiência em ambientes de nuvem. 
 Ao explorar recursos como usuários, grupos, identidades externas, permissionamentos e integração com o Microsoft Defender for Cloud, é possível construir uma estrutura robusta de identidade e acesso que se adapta às necessidades modernas de empresas e equipes.
 Este conteúdo reforça a importância de aplicar boas práticas de segurança desde o início da jornada na nuvem, utilizando ferramentas como **Acesso Condicional**, **MFA**, **Entra Connect** e **RBAC** para proteger dados, aplicações e usuários contra ameaças internas e externas.
-O aprendizado adquirido neste laboratório não apenas prepara para certificações como a **AZ-900**, mas também oferece uma base sólida para atuar com responsabilidade e estratégia em projetos reais na plataforma Microsoft Azure.
+O aprendizado adquirido neste laboratório não apenas nos prepara para certificações como a **AZ-900**, mas também oferece uma base sólida para atuarmos com responsabilidade e estratégia em projetos reais na plataforma Microsoft Azure.
 
 
 ---
@@ -131,14 +131,13 @@ O aprendizado adquirido neste laboratório não apenas prepara para certificaç�
 
 ---
  
-### 📚 Referências Complementares
-- [Usar o Gerenciador de Armazenamento do Azure](https://learn.microsoft.com/pt-br/azure/storage/blobs/quickstart-storage-explorer)
-- [Visão geral da conta de armazenamento](https://learn.microsoft.com/pt-br/azure/storage/common/storage-account-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json)
-- [Introdução ao AzCopy](https://learn.microsoft.com/pt-br/azure/storage/common/storage-use-azcopy-v10?toc=%2Fazure%2Fstorage%2Ffiles%2Ftoc.json&tabs=dnf)
-- [Migração das cargas de trabalho](https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account?icid=azure-migrate#tabs-pill-bar-ocea03_tab4)
-- [O que são as Migrações para Azure?](https://learn.microsoft.com/pt-br/azure/migrate/migrate-services-overview?view=migrate-classic)
-- [Sincronização de Arquivos do Azure e Azure Data Box](https://learn.microsoft.com/pt-br/azure/storage/files/storage-files-migration-server-hybrid-databox)
-- [Gerenciador de Armazenamento](https://azure.microsoft.com/pt-br/products/storage/storage-explorer/?msockid=0a879c916bf366861df88afa6a98670a)
+### 📚 Recursos Adicionais
+- [O que é o Microsoft Entra?](https://learn.microsoft.com/pt-br/entra/fundamentals/what-is-entra)
+- [Como renomear o Azure AD](https://learn.microsoft.com/pt-pt/azure/active-directory/fundamentals/how-to-rename-azure-ad)
+- [Padrões de segurança no Microsoft Entra ID](https://learn.microsoft.com/pt-br/entra/fundamentals/security-defaults)
+- [Como criar, convidar e excluir usuários](https://learn.microsoft.com/pt-br/entra/fundamentals/how-to-create-delete-users)
+- [Atributos de Segurança Personalizados](https://learn.microsoft.com/pt-br/entra/fundamentals/custom-security-attributes-overview)
+- [O que é azure RBAC](https://learn.microsoft.com/pt-br/azure/role-based-access-control/overview)
 - [Calculadora de Preços Azure](https://azure.microsoft.com/pt-br/pricing/calculator/?ef_id=_k_EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE_k_&OCID=AIDcmmzmnb0182_SEM__k_EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE_k_&gad_source=1&gad_campaignid=1635078708&gbraid=0AAAAADcJh_s0nlhmSLvv4COb6oAkGNm0s&gclid=EAIaIQobChMI14z7o_fWjwMVc0FIAB3PYQApEAAYASACEgLE-fD_BwE)
 - [Assinatura do Azure](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/azure-subscription-service-limits)
   
