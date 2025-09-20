@@ -20,6 +20,7 @@ Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais
 - Domínio gerenciado na nuvem
 - Suporte a LDAP, Kerberos, NTLM
 - Autenticação para apps legados
+<img width="500" height="300" alt="fig6" src="https://github.com/user-attachments/assets/88fb8ebd-8194-4bef-a59f-91369e96b31a" />
 
 ## ✅ Autenticação vs. Autorização
 - Autenticação: Verifica identidade
@@ -34,6 +35,8 @@ Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais
   - Exigir MFA
   - Bloquear acesso
   - Permitir com restrições
+  <img width="500" height="300" alt="fig5" src="https://github.com/user-attachments/assets/fa84fef2-8cf3-46c8-91fc-3d7faecad59e" />
+  
 ---
 
 ### 🔐 Microsoft Entra ID – Configuração de Organização
@@ -142,3 +145,5 @@ O aprendizado adquirido neste laboratório não apenas nos prepara para certific
 - [Assinatura do Azure](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/azure-subscription-service-limits)
   
 📎 Link do curso: [Microsoft Azure AZ-900 - DIO.me](https://web.dio.me/track/microsoft-azure-az-900)
+
+🖼️ Imagens: Fonte Dio.me
