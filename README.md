@@ -130,7 +130,7 @@ O aprendizado adquirido neste laboratório não apenas nos prepara para certific
 
 
 ---
-> Este conteúdo faz parte do projeto **Segurança, Acesso e Identidade na Azure - Laboratório** da plataforma [DIO.me](https://web.dio.me).
+> Este conteúdo faz parte do projeto **Entendendo sobre Segurança e Identidade na Azure- Laboratório** da plataforma [DIO.me](https://web.dio.me).
 
 ---
  
