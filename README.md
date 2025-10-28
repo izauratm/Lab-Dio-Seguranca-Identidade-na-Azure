@@ -147,3 +147,11 @@ O aprendizado adquirido neste laboratório não apenas nos prepara para certific
 📎 Link do curso: [Microsoft Azure AZ-900 - DIO.me](https://web.dio.me/track/microsoft-azure-az-900)
 
 🖼️ Imagens: Fonte Dio.me
+
+---
+
+### Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
+<img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
